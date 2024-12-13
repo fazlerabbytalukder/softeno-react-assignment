@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active-btn{
+    color: #6576FF;
+  }
+
+  .active-btn-b{
+    border-color: #6576FF;
+  }
+  
