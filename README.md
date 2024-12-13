@@ -1,3 +1,3 @@
 # React + Vite
 
-Live Link:
+Live Link: https://softeno-react-assignment.vercel.app/
